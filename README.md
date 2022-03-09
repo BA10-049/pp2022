@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Nguyễn Đăng Quang*
-* Student ID: *BA10-049*
+* Student Name: Nguyễn Đăng Quang
+* Student ID: BA10-049
